@@ -2,7 +2,7 @@
 
 # Laravel Library Management System
 
-## live demo:
+## live demo: https://sazzad100705.github.io/laravel-project/
 
 change current directory
 
